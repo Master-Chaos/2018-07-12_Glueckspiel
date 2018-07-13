@@ -1,5 +1,7 @@
 # 2018_07_12_Glueckspiel
 
+ATTENTION: Program Arguments are necessary! AGE NAME GENDER e.g. 17 Mike m  
+
 42%
 Tipp: Um ganzzahlige Zufallszahlen zu generieren benutzt einfach folgende Funktionen:
 
