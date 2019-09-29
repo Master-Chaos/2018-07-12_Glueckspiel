@@ -1,7 +1,6 @@
 # 2018_07_12_Glueckspiel
 
-ATTENTION: Program Arguments are necessary! AGE NAME GENDER e.g. 17 Mike m  
-
+## Program description:
 42%
 Tipp: Um ganzzahlige Zufallszahlen zu generieren benutzt einfach folgende Funktionen:
 
@@ -52,4 +51,9 @@ die Funktion scanf aus Vorlesung 2 an.
 
 https://wiki.freitagsrunde.org/Ckurs/Gl%C3%BCckspiel
 
-Program: CLion
+## How to use:
+1. run the program with program arguments AGE NAME GENDER e.g. 17 Mike m (program arguments are necessary!)
+2. ATTENTION:   
+
+## Used Software:
+The Project is created with Clion form developer Jet Brains (Homepage: https://www.jetbrains.com/).
