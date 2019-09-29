@@ -51,3 +51,5 @@ Hinweis 2: Falls du die Zahlen doch von der Konsole einlesen willst, schau dir m
 die Funktion scanf aus Vorlesung 2 an.
 
 https://wiki.freitagsrunde.org/Ckurs/Gl%C3%BCckspiel
+
+Program: CLion
