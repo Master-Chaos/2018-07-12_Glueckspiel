@@ -53,7 +53,6 @@ https://wiki.freitagsrunde.org/Ckurs/Gl%C3%BCckspiel
 
 ## How to use:
 1. run the program with program arguments AGE NAME GENDER e.g. 17 Mike m (program arguments are necessary!)
-2. ATTENTION:   
 
 ## Used Software:
 The Project is created with Clion form developer Jet Brains (Homepage: https://www.jetbrains.com/).
